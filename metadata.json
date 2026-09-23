@@ -1,0 +1,8 @@
+{
+  "name": "Remix CryptoParty 3D",
+  "description": "Videojuego educativo 3D de tablero interactivo estilo Mario Party sobre finanzas y Web3 con 10 minijuegos de fin de ronda, personajes meme, economía dual y aprendizaje interactivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
